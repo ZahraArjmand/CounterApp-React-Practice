@@ -1,0 +1,21 @@
+.input{
+border: none;
+ width: 11rem;
+ height: 1rem;
+padding: 4px;
+border-radius: 10px;
+background-color: rgba(17, 12, 46, 0.15);
+}
+::placeholder{
+ color:rgba(255, 255, 255, 0.50);
+ padding: 0.5rem;
+}
+.label{
+ margin: 0.5rem;
+}
+textarea:focus, .input:focus{
+ outline: none;
+}
+.card{
+ flex-direction: column;
+}

@@ -1,0 +1,12 @@
+.card {
+ background-color: lightpink;
+ color: white;
+ width: 40vw;
+ margin-top: 5rem;
+ border-radius:10px ;
+ -webkit-border-radius:10px ;
+ -moz-border-radius:10px ;
+ -ms-border-radius:10px ;
+ -o-border-radius:10px ;
+ box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;;
+}

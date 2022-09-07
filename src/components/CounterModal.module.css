@@ -1,0 +1,24 @@
+.container{
+ position: relative;
+ z-index: 200;
+}
+.counter{
+
+ width: 80%;
+ background-color:  rgba(17, 12, 46, 0.15);
+ margin: auto;
+ display: flex;
+ justify-content: center;
+border-bottom-right-radius: 10px;
+border-bottom-left-radius: 10px;
+z-index: 200;
+}
+.button{
+ display: flex;
+ justify-content: flex-end;
+ width: 80%;
+ margin: auto;
+}
+.button Button{
+ margin:1rem;
+}

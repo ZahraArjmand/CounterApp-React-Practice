@@ -1,0 +1,16 @@
+.button{
+ border: none;
+ background-color: white;
+ width: 4rem;
+ padding: 4px;
+ margin: 1rem 0 0 0;
+ border-radius:10px;
+ -webkit-border-radius:10px;
+ -moz-border-radius:10px;
+ -ms-border-radius:10px;
+ -o-border-radius:10px;
+}
+.button:hover ,
+.button:active{
+ background-color:rgb(250, 222, 226) ;
+}
